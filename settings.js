@@ -1,8 +1,8 @@
 const settings = {
   packname: 'Knight Bot',
   author: '‎',
-  botName: "Dussey Bot",
-  botOwner: 'Dussey', // Your name
+  botName:"Knight🥷🗡️",
+  botOwner: 'D. Chris✨', // Your name
   ownerNumber:'233531295249', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "private",
